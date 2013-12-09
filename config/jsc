@@ -1,0 +1,4 @@
+#!/bin/bash
+source /var/www/jasonsnider.com/tinker/Jsc/config/jam/jam-jsc
+
+
